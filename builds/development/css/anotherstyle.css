@@ -33,4 +33,11 @@ pre.center{
     width: 60%;
     border: #F2773F solid;
 }
+#nav_span_1,#nav_span_2, #nav_span_3, #nav_span_4, #nav_span_5{
+    border: solid;
+    padding: 5px;
 
+}
+nav#nav_1 #nav_span_1{
+
+}
